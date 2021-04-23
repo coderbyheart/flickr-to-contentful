@@ -1,0 +1,15 @@
+{
+  "name": "@coderbyheart/flickr-to-contentful",
+  "version": "0.0.0-development",
+  "description": "Imports flickr data takeout to Contentful",
+  "author": "Markus Tacker <m@coderbyheart.com> | https://coderbyheart.com",
+  "license": "MIT",
+  "devDependencies": {
+    "bottleneck": "*",
+    "contentful": "*",
+    "contentful-management": "*"
+  },
+  "dependencies": {
+    "@what3words/api": "*"
+  }
+}
